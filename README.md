@@ -1,4 +1,4 @@
-# CFB-Schedules
+# CFB Wallpaper Schedules
 *from /u/infinitempg*
 
 This project involves CSV files, Microsoft Excel, Visual Basic, and Adobe Photoshop. This involves lots of manual work as well as macro usage - and I wasn't smart enough to write down everything last year so this is an attempt to both redo a lot of the Photoshop work as well as saving it for next year.
