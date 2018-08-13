@@ -1,0 +1,837 @@
+﻿AUG,25,Duquesne,A,Massachusetts,H
+AUG,25,Hawaii,A,Colorado St,H
+AUG,25,Prairie View,A,Rice,H
+AUG,25,Wyoming,A,New Mexico St,H
+AUG,30,Northwestern LA,A,Texas A&M,H
+AUG,30,Central Conn,A,Ball St,H
+AUG,30,Kennesaw,A,Georgia St,H
+AUG,30,New Mexico St,A,Minnesota,H
+AUG,30,Northwestern,A,Purdue,H
+AUG,30,Savannah St,A,UAB,H
+AUG,30,UC Davis,A,San Jose St,H
+AUG,30,UCF,A,Connecticut,H
+AUG,30,Wake Forest,A,Tulane,H
+AUG,30,Weber St,A,Utah,H
+AUG,30,Missouri St,A,Oklahoma St,H
+AUG,30,SE Louisiana,A,ULM,H
+AUG,31,San Diego St,A,Stanford,H
+AUG,31,Syracuse,A,W Michigan,H
+AUG,31,Utah St,A,Michigan St,H
+AUG,31,WKU,A,Wisconsin,H
+AUG,31,Army,A,Duke,H
+AUG,31,Monmouth NJ,A,E Michigan,H
+AUG,31,Portland St,A,Nevada,H
+AUG,31,Colorado,N,Colorado St,N
+SEP,1,Michigan,A,Notre Dame,H
+SEP,1,Abilene Chr,A,Baylor,H
+SEP,1,Akron,A,Nebraska,H
+SEP,1,Albany NY,A,Pittsburgh,H
+SEP,1,Alcorn St,A,Georgia Tech,H
+SEP,1,Appalachian St,A,Penn St,H
+SEP,1,Austin Peay,A,Georgia,H
+SEP,1,Boise St,A,Troy,H
+SEP,1,Bowling Green,A,Oregon,H
+SEP,1,BYU,A,Arizona,H
+SEP,1,Cent Arkansas,A,Tulsa,H
+SEP,1,C Michigan,A,Kentucky,H
+SEP,1,Charleston So,A,Florida,H
+SEP,1,Cincinnati,A,UCLA,H
+SEP,1,Coastal Car,A,South Carolina,H
+SEP,1,Delaware St,A,Buffalo,H
+SEP,1,E Illinois,A,Arkansas,H
+SEP,1,Elon,A,South Florida,H
+SEP,1,FL Atlantic,A,Oklahoma,H
+SEP,1,Fordham,A,Charlotte,H
+SEP,1,Furman,A,Clemson,H
+SEP,1,Grambling,A,ULL,H
+SEP,1,Houston,A,Rice,H
+SEP,1,Howard,A,Ohio,H
+SEP,1,Idaho,A,Fresno St,H
+SEP,1,Incarnate Word,A,New Mexico,H
+SEP,1,Indiana,A,Florida Intl,H
+SEP,1,Jackson St,A,Southern Miss,H
+SEP,1,James Madison,A,NC State,H
+SEP,1,Kent,A,Illinois,H
+SEP,1,Louisiana Tech,A,South Alabama,H
+SEP,1,Marshall,A,Miami OH,H
+SEP,1,Mercer,A,Memphis,H
+SEP,1,MTSU,A,Vanderbilt,H
+SEP,1,Navy,A,Hawaii,H
+SEP,1,Nicholls St,A,Kansas,H
+SEP,1,N Illinois,A,Iowa,H
+SEP,1,North Carolina,A,California,H
+SEP,1,NC A&T,A,East Carolina,H
+SEP,1,Old Dominion,A,Liberty,H
+SEP,1,Oregon St,A,Ohio St,H
+SEP,1,Richmond,A,Virginia,H
+SEP,1,SMU,A,North Texas,H
+SEP,1,S Carolina St,A,Ga Southern,H
+SEP,1,South Dakota,A,Kansas St,H
+SEP,1,S Dakota St,A,Iowa St,H
+SEP,1,SE Missouri St,A,Arkansas St,H
+SEP,1,Southern Univ,A,TCU,H
+SEP,1,SF Austin,A,Mississippi St,H
+SEP,1,Stony Brook,A,Air Force,H
+SEP,1,Texas St,A,Rutgers,H
+SEP,1,Massachusetts,A,Boston College,H
+SEP,1,UNLV,A,USC,H
+SEP,1,TN Martin,A,Missouri,H
+SEP,1,UT San Antonio,A,Arizona St,H
+SEP,1,Villanova,A,Temple,H
+SEP,1,VMI,A,Toledo,H
+SEP,1,Washington St,A,Wyoming,H
+SEP,1,West Virginia,N,Tennessee,N
+SEP,1,Texas,N,Maryland,N
+SEP,1,Alabama,N,Louisville,N
+SEP,1,Washington,N,Auburn,N
+SEP,1,Mississippi,N,Texas Tech,N
+SEP,1,Northern Arizona,A,UTEP,H
+SEP,2,Miami FL,N,LSU,N
+SEP,3,Virginia Tech,A,Florida St,H
+SEP,7,TCU,A,SMU,H
+SEP,8,Air Force,A,FL Atlantic,H
+SEP,8,Alabama St,A,Auburn,H
+SEP,8,Appalachian St,A,Charlotte,H
+SEP,8,Arizona,A,Houston,H
+SEP,8,Arkansas,A,Colorado St,H
+SEP,8,Arkansas St,A,Alabama,H
+SEP,8,Ball St,A,Notre Dame,H
+SEP,8,Baylor,A,UT San Antonio,H
+SEP,8,Buffalo,A,Temple,H
+SEP,8,California,A,BYU,H
+SEP,8,Clemson,A,Texas A&M,H
+SEP,8,Colorado,A,Nebraska,H
+SEP,8,Duke,A,Northwestern,H
+SEP,8,E Michigan,A,Purdue,H
+SEP,8,ETSU,A,Tennessee,H
+SEP,8,Florida Intl,A,Old Dominion,H
+SEP,8,Florida A&M,A,Troy,H
+SEP,8,Fresno St,A,Minnesota,H
+SEP,8,Georgia,A,South Carolina,H
+SEP,8,Georgia St,A,NC State,H
+SEP,8,Georgia Tech,A,South Florida,H
+SEP,8,Holy Cross,A,Boston College,H
+SEP,8,Howard,A,Kent,H
+SEP,8,Incarnate Word,A,North Texas,H
+SEP,8,Indiana St,A,Louisville,H
+SEP,8,Iowa St,A,Iowa,H
+SEP,8,Kansas,A,C Michigan,H
+SEP,8,Kentucky,A,Florida,H
+SEP,8,Lamar,A,Texas Tech,H
+SEP,8,Liberty,A,Army,H
+SEP,8,Maine,A,WKU,H
+SEP,8,Maryland,A,Bowling Green,H
+SEP,8,Memphis,A,Navy,H
+SEP,8,Michigan St,A,Arizona St,H
+SEP,8,Mississippi St,A,Kansas St,H
+SEP,8,Morgan St,A,Akron,H
+SEP,8,Nevada,A,Vanderbilt,H
+SEP,8,New Mexico,A,Wisconsin,H
+SEP,8,New Mexico St,A,Utah St,H
+SEP,8,Nicholls St,A,Tulane,H
+SEP,8,North Carolina,A,East Carolina,H
+SEP,8,North Dakota,A,Washington,H
+SEP,8,Penn St,A,Pittsburgh,H
+SEP,8,Portland St,A,Oregon,H
+SEP,8,Rice,A,Hawaii,H
+SEP,8,Rutgers,A,Ohio St,H
+SEP,8,CS Sacramento,A,San Diego St,H
+SEP,8,Samford,A,Florida St,H
+SEP,8,San Jose St,A,Washington St,H
+SEP,8,Savannah St,A,Miami FL,H
+SEP,8,South Alabama,A,Oklahoma St,H
+SEP,8,S Carolina St,A,UCF,H
+SEP,8,SE Louisiana,A,LSU,H
+SEP,8,Southern Univ,A,Louisiana Tech,H
+SEP,8,S Illinois,A,Mississippi,H
+SEP,8,Southern Utah,A,Oregon St,H
+SEP,8,TX Southern,A,Texas St,H
+SEP,8,Towson,A,Wake Forest,H
+SEP,8,Tulsa,A,Texas,H
+SEP,8,UAB,A,Coastal Car,H
+SEP,8,UCLA,A,Oklahoma,H
+SEP,8,Connecticut,A,Boise St,H
+SEP,8,ULM,A,Southern Miss,H
+SEP,8,Massachusetts,A,Ga Southern,H
+SEP,8,USC,A,Stanford,H
+SEP,8,TN Martin,A,MTSU,H
+SEP,8,Utah,A,N Illinois,H
+SEP,8,UTEP,A,UNLV,H
+SEP,8,Virginia,A,Indiana,H
+SEP,8,Wagner,A,Syracuse,H
+SEP,8,W Illinois,A,Illinois,H
+SEP,8,W Michigan,A,Michigan,H
+SEP,8,William & Mary,A,Virginia Tech,H
+SEP,8,Wyoming,A,Missouri,H
+SEP,8,Youngstown St,A,West Virginia,H
+SEP,8,E Kentucky,A,Marshall,H
+SEP,8,Miami OH,A,Cincinnati,H
+SEP,13,Boston College,A,Wake Forest,H
+SEP,13,Tennessee Tech,A,Utah St,H
+SEP,14,Georgia St,A,Memphis,H
+SEP,15,Akron,A,Northwestern,H
+SEP,15,Alabama,A,Mississippi,H
+SEP,15,Alabama A&M,A,Cincinnati,H
+SEP,15,Arizona St,A,San Diego St,H
+SEP,15,Arkansas St,A,Tulsa,H
+SEP,15,Ball St,A,Indiana,H
+SEP,15,Bethune-Cookman,A,FL Atlantic,H
+SEP,15,Boise St,A,Oklahoma St,H
+SEP,15,BYU,A,Wisconsin,H
+SEP,15,Campbell,A,Coastal Car,H
+SEP,15,C Michigan,A,N Illinois,H
+SEP,15,Colorado St,A,Florida,H
+SEP,15,Delaware St,A,W Michigan,H
+SEP,15,Duke,A,Baylor,H
+SEP,15,East Carolina,A,Virginia Tech,H
+SEP,15,E Michigan,A,Buffalo,H
+SEP,15,E Washington,A,Washington St,H
+SEP,15,Florida St,A,Syracuse,H
+SEP,15,Fresno St,A,UCLA,H
+SEP,15,Ga Southern,A,Clemson,H
+SEP,15,Georgia Tech,A,Pittsburgh,H
+SEP,15,Hawaii,A,Army,H
+SEP,15,Houston,A,Texas Tech,H
+SEP,15,Idaho St,A,California,H
+SEP,15,Kent,A,Penn St,H
+SEP,15,Lehigh,A,Navy,H
+SEP,15,ULL,A,Mississippi St,H
+SEP,15,LSU,A,Auburn,H
+SEP,15,Marshall,A,South Carolina,H
+SEP,15,Miami FL,A,Toledo,H
+SEP,15,Miami OH,A,Minnesota,H
+SEP,15,MTSU,A,Georgia,H
+SEP,15,Missouri,A,Purdue,H
+SEP,15,Murray St,A,Kentucky,H
+SEP,15,New Hampshire,A,Colorado,H
+SEP,15,New Mexico,A,New Mexico St,H
+SEP,15,Norfolk St,A,Liberty,H
+SEP,15,North Texas,A,Arkansas,H
+SEP,15,Northern Iowa,A,Iowa,H
+SEP,15,Ohio,A,Virginia,H
+SEP,15,Ohio St,N,TCU,N
+SEP,15,Oklahoma,A,Iowa St,H
+SEP,15,Old Dominion,A,Charlotte,H
+SEP,15,Oregon St,A,Nevada,H
+SEP,15,Rhode Island,A,Connecticut,H
+SEP,15,Rutgers,A,Kansas,H
+SEP,15,San Jose St,A,Oregon,H
+SEP,15,SMU,A,Michigan,H
+SEP,15,Southern Miss,A,Appalachian St,H
+SEP,15,Southern Utah,A,Arizona,H
+SEP,15,Temple,A,Maryland,H
+SEP,15,Texas St,A,South Alabama,H
+SEP,15,Troy,A,Nebraska,H
+SEP,15,Tulane,A,UAB,H
+SEP,15,UC Davis,A,Stanford,H
+SEP,15,UCF,A,North Carolina,H
+SEP,15,ULM,A,Texas A&M,H
+SEP,15,Massachusetts,A,Florida Intl,H
+SEP,15,USC,A,Texas,H
+SEP,15,UTEP,A,Tennessee,H
+SEP,15,UT San Antonio,A,Kansas St,H
+SEP,15,Vanderbilt,A,Notre Dame,H
+SEP,15,Washington,A,Utah,H
+SEP,15,West Virginia,A,NC State,H
+SEP,15,WKU,A,Louisville,H
+SEP,15,Wofford,A,Wyoming,H
+SEP,15,E Kentucky,A,Bowling Green,H
+SEP,15,South Florida,N,Illinois,N
+SEP,15,Prairie View,A,UNLV,H
+SEP,20,Tulsa,A,Temple,H
+SEP,21,FL Atlantic,A,UCF,H
+SEP,21,Penn St,A,Illinois,H
+SEP,21,Washington St,A,USC,H
+SEP,22,Air Force,A,Utah St,H
+SEP,22,Akron,A,Iowa St,H
+SEP,22,Texas A&M,A,Alabama,H
+SEP,22,Gardner Webb,A,Appalachian St,H
+SEP,22,Arizona,A,Oregon St,H
+SEP,22,Arizona St,A,Washington,H
+SEP,22,WKU,A,Ball St,H
+SEP,22,Kansas,A,Baylor,H
+SEP,22,Boston College,A,Purdue,H
+SEP,22,Buffalo,A,Rutgers,H
+SEP,22,Charlotte,A,Massachusetts,H
+SEP,22,Ohio,A,Cincinnati,H
+SEP,22,Maine,A,C Michigan,H
+SEP,22,Coastal Car,A,ULL,H
+SEP,22,Illinois St,A,Colorado St,H
+SEP,22,Connecticut,A,Syracuse,H
+SEP,22,NC Central,A,Duke,H
+SEP,22,Duquesne,A,Hawaii,H
+SEP,22,East Carolina,A,South Florida,H
+SEP,22,E Michigan,A,San Diego St,H
+SEP,22,Georgia,A,Missouri,H
+SEP,22,W Michigan,A,Georgia St,H
+SEP,22,Michigan St,A,Indiana,H
+SEP,22,Wisconsin,A,Iowa,H
+SEP,22,Kent,A,Mississippi,H
+SEP,22,Mississippi St,A,Kentucky,H
+SEP,22,Louisiana Tech,A,LSU,H
+SEP,22,NC State,A,Marshall,H
+SEP,22,Minnesota,A,Maryland,H
+SEP,22,South Alabama,A,Memphis,H
+SEP,22,Nebraska,A,Michigan,H
+SEP,22,Navy,A,SMU,H
+SEP,22,Nevada,A,Toledo,H
+SEP,22,New Mexico St,A,UTEP,H
+SEP,22,Pittsburgh,A,North Carolina,H
+SEP,22,Tulane,A,Ohio St,H
+SEP,22,Texas Tech,A,Oklahoma St,H
+SEP,22,Stanford,A,Oregon,H
+SEP,22,Rice,A,Southern Miss,H
+SEP,22,South Carolina,A,Vanderbilt,H
+SEP,22,TCU,A,Texas,H
+SEP,22,Texas St,A,UT San Antonio,H
+SEP,22,UNLV,A,Arkansas St,H
+SEP,22,Arkansas,A,Auburn,H
+SEP,22,Miami OH,A,Bowling Green,H
+SEP,22,McNeese St,A,BYU,H
+SEP,22,N Illinois,A,Florida St,H
+SEP,22,Clemson,A,Georgia Tech,H
+SEP,22,TX Southern,A,Houston,H
+SEP,22,North Texas,A,Liberty,H
+SEP,22,Troy,A,ULM,H
+SEP,22,Florida Intl,A,Miami FL,H
+SEP,22,Army,A,Oklahoma,H
+SEP,22,Virginia Tech,A,Old Dominion,H
+SEP,22,Florida,A,Tennessee,H
+SEP,22,Louisville,A,Virginia,H
+SEP,22,Notre Dame,A,Wake Forest,H
+SEP,22,Kansas St,A,West Virginia,H
+SEP,27,North Carolina,A,Miami FL,H
+SEP,28,UCLA,A,Colorado,H
+SEP,28,Memphis,A,Tulane,H
+SEP,29,Nevada,A,Air Force,H
+SEP,29,ULL,A,Alabama,H
+SEP,29,South Alabama,A,Appalachian St,H
+SEP,29,USC,A,Arizona,H
+SEP,29,Oregon St,A,Arizona St,H
+SEP,29,Arkansas St,A,Ga Southern,H
+SEP,29,Army,A,Buffalo,H
+SEP,29,Southern Miss,A,Auburn,H
+SEP,29,Kent,A,Ball St,H
+SEP,29,Temple,A,Boston College,H
+SEP,29,Oregon,A,California,H
+SEP,29,Charlotte,A,UAB,H
+SEP,29,Cincinnati,A,Connecticut,H
+SEP,29,Syracuse,A,Clemson,H
+SEP,29,C Michigan,A,Michigan St,H
+SEP,29,Coastal Car,A,Troy,H
+SEP,29,Old Dominion,A,East Carolina,H
+SEP,29,N Illinois,A,E Michigan,H
+SEP,29,FL Atlantic,A,MTSU,H
+SEP,29,Florida,A,Mississippi St,H
+SEP,29,Toledo,A,Fresno St,H
+SEP,29,Hawaii,A,San Jose St,H
+SEP,29,Indiana,A,Rutgers,H
+SEP,29,Iowa St,A,TCU,H
+SEP,29,Oklahoma St,A,Kansas,H
+SEP,29,South Carolina,A,Kentucky,H
+SEP,29,Louisiana Tech,A,North Texas,H
+SEP,29,Mississippi,A,LSU,H
+SEP,29,Marshall,A,WKU,H
+SEP,29,Massachusetts,A,Ohio,H
+SEP,29,Michigan,A,Northwestern,H
+SEP,29,Purdue,A,Nebraska,H
+SEP,29,Ohio St,A,Penn St,H
+SEP,29,Pittsburgh,A,UCF,H
+SEP,29,Utah,A,Washington St,H
+SEP,29,UTEP,A,UT San Antonio,H
+SEP,29,Virginia Tech,A,Duke,H
+SEP,29,Ark Pine Bluff,A,Florida Intl,H
+SEP,29,Tennessee,A,Georgia,H
+SEP,29,ULM,A,Georgia St,H
+SEP,29,Bowling Green,A,Georgia Tech,H
+SEP,29,Texas,A,Kansas St,H
+SEP,29,Florida St,A,Louisville,H
+SEP,29,W Michigan,A,Miami OH,H
+SEP,29,Liberty,A,New Mexico,H
+SEP,29,Virginia,A,NC State,H
+SEP,29,Stanford,A,Notre Dame,H
+SEP,29,Baylor,A,Oklahoma,H
+SEP,29,Houston Bap,A,SMU,H
+SEP,29,Arkansas,N,Texas A&M,N
+SEP,29,West Virginia,A,Texas Tech,H
+SEP,29,Tennessee St,A,Vanderbilt,H
+SEP,29,Rice,A,Wake Forest,H
+SEP,29,BYU,A,Washington,H
+SEP,29,Boise St,A,Wyoming,H
+OCT,4,Georgia St,A,Troy,H
+OCT,4,Tulsa,A,Houston,H
+OCT,5,Georgia Tech,A,Louisville,H
+OCT,5,MTSU,A,Marshall,H
+OCT,5,Utah St,A,BYU,H
+OCT,6,Navy,A,Air Force,H
+OCT,6,California,A,Arizona,H
+OCT,6,Arizona St,A,Colorado,H
+OCT,6,Auburn,A,Mississippi St,H
+OCT,6,N Illinois,A,Ball St,H
+OCT,6,San Diego St,A,Boise St,H
+OCT,6,Boston College,A,NC State,H
+OCT,6,Bowling Green,A,Toledo,H
+OCT,6,Buffalo,A,C Michigan,H
+OCT,6,Tulane,A,Cincinnati,H
+OCT,6,Clemson,A,Wake Forest,H
+OCT,6,Colorado St,A,San Jose St,H
+OCT,6,Connecticut,A,Memphis,H
+OCT,6,East Carolina,A,Temple,H
+OCT,6,E Michigan,A,W Michigan,H
+OCT,6,Old Dominion,A,FL Atlantic,H
+OCT,6,LSU,A,Florida,H
+OCT,6,Fresno St,A,Nevada,H
+OCT,6,South Alabama,A,Ga Southern,H
+OCT,6,Vanderbilt,A,Georgia,H
+OCT,6,Wyoming,A,Hawaii,H
+OCT,6,Illinois,A,Rutgers,H
+OCT,6,Indiana,A,Ohio St,H
+OCT,6,Iowa,A,Minnesota,H
+OCT,6,Iowa St,A,Oklahoma St,H
+OCT,6,Ohio,A,Kent,H
+OCT,6,Kentucky,A,Texas A&M,H
+OCT,6,UAB,A,Louisiana Tech,H
+OCT,6,Maryland,A,Michigan,H
+OCT,6,South Florida,A,Massachusetts,H
+OCT,6,Northwestern,A,Michigan St,H
+OCT,6,Missouri,A,South Carolina,H
+OCT,6,Nebraska,A,Wisconsin,H
+OCT,6,New Mexico,A,UNLV,H
+OCT,6,North Texas,A,UTEP,H
+OCT,6,Washington St,A,Oregon St,H
+OCT,6,Syracuse,A,Pittsburgh,H
+OCT,6,UT San Antonio,A,Rice,H
+OCT,6,SMU,A,UCF,H
+OCT,6,Utah,A,Stanford,H
+OCT,6,ULL,A,Texas St,H
+OCT,6,Washington,A,UCLA,H
+OCT,6,Miami OH,A,Akron,H
+OCT,6,Alabama,A,Arkansas,H
+OCT,6,Kansas St,A,Baylor,H
+OCT,6,Florida St,A,Miami FL,H
+OCT,6,Liberty,A,New Mexico St,H
+OCT,6,Texas,N,Oklahoma,N
+OCT,6,ULM,A,Mississippi,H
+OCT,6,Notre Dame,A,Virginia Tech,H
+OCT,6,Kansas,A,West Virginia,H
+OCT,9,Appalachian St,A,Arkansas St,H
+OCT,11,Ga Southern,A,Texas St,H
+OCT,11,Texas Tech,A,TCU,H
+OCT,12,Air Force,A,San Diego St,H
+OCT,12,Arizona,A,Utah,H
+OCT,12,South Florida,A,Tulsa,H
+OCT,13,Akron,A,Buffalo,H
+OCT,13,Missouri,A,Alabama,H
+OCT,13,Alabama St,A,South Alabama,H
+OCT,13,Army,A,San Jose St,H
+OCT,13,Ball St,A,C Michigan,H
+OCT,13,Baylor,A,Texas,H
+OCT,13,Boise St,A,Nevada,H
+OCT,13,Louisville,A,Boston College,H
+OCT,13,W Michigan,A,Bowling Green,H
+OCT,13,UCLA,A,California,H
+OCT,13,WKU,A,Charlotte,H
+OCT,13,Colorado,A,USC,H
+OCT,13,New Mexico,A,Colorado St,H
+OCT,13,Duke,A,Georgia Tech,H
+OCT,13,Houston,A,East Carolina,H
+OCT,13,Toledo,A,E Michigan,H
+OCT,13,Florida,A,Vanderbilt,H
+OCT,13,MTSU,A,Florida Intl,H
+OCT,13,Wyoming,A,Fresno St,H
+OCT,13,Georgia,A,LSU,H
+OCT,13,Purdue,A,Illinois,H
+OCT,13,Iowa,A,Indiana,H
+OCT,13,Louisiana Tech,A,UT San Antonio,H
+OCT,13,Marshall,A,Old Dominion,H
+OCT,13,Rutgers,A,Maryland,H
+OCT,13,UCF,A,Memphis,H
+OCT,13,Wisconsin,A,Michigan,H
+OCT,13,Michigan St,A,Penn St,H
+OCT,13,Minnesota,A,Ohio St,H
+OCT,13,Temple,A,Navy,H
+OCT,13,Nebraska,A,Northwestern,H
+OCT,13,New Mexico St,A,ULL,H
+OCT,13,Ohio,A,N Illinois,H
+OCT,13,Southern Miss,A,North Texas,H
+OCT,13,Washington,A,Oregon,H
+OCT,13,UAB,A,Rice,H
+OCT,13,Texas A&M,A,South Carolina,H
+OCT,13,UNLV,A,Utah St,H
+OCT,13,Mississippi,N,Arkansas,N
+OCT,13,Tennessee,A,Auburn,H
+OCT,13,Hawaii,A,BYU,H
+OCT,13,ULM,A,Coastal Car,H
+OCT,13,West Virginia,A,Iowa St,H
+OCT,13,Oklahoma St,A,Kansas St,H
+OCT,13,Troy,A,Liberty,H
+OCT,13,Kent,A,Miami OH,H
+OCT,13,Virginia Tech,A,North Carolina,H
+OCT,13,Pittsburgh,A,Notre Dame,H
+OCT,13,Miami FL,A,Virginia,H
+OCT,18,Stanford,A,Arizona St,H
+OCT,18,Georgia St,A,Arkansas St,H
+OCT,19,Air Force,A,UNLV,H
+OCT,19,Colorado St,A,Boise St,H
+OCT,20,Akron,A,Kent,H
+OCT,20,ULL,A,Appalachian St,H
+OCT,20,Arizona,A,UCLA,H
+OCT,20,Miami OH,A,Army,H
+OCT,20,Auburn,A,Mississippi,H
+OCT,20,E Michigan,A,Ball St,H
+OCT,20,Bowling Green,A,Ohio,H
+OCT,20,Buffalo,A,Toledo,H
+OCT,20,California,A,Oregon St,H
+OCT,20,Charlotte,A,MTSU,H
+OCT,20,Cincinnati,A,Temple,H
+OCT,20,NC State,A,Clemson,H
+OCT,20,W Michigan,A,C Michigan,H
+OCT,20,Coastal Car,A,Massachusetts,H
+OCT,20,Colorado,A,Washington,H
+OCT,20,Connecticut,A,South Florida,H
+OCT,20,Virginia,A,Duke,H
+OCT,20,UCF,A,East Carolina,H
+OCT,20,FL Atlantic,A,Marshall,H
+OCT,20,Rice,A,Florida Intl,H
+OCT,20,Fresno St,A,New Mexico,H
+OCT,20,Ga Southern,A,New Mexico St,H
+OCT,20,Nevada,A,Hawaii,H
+OCT,20,Houston,A,Navy,H
+OCT,20,Illinois,A,Wisconsin,H
+OCT,20,Penn St,A,Indiana,H
+OCT,20,Maryland,A,Iowa,H
+OCT,20,Kansas,A,Texas Tech,H
+OCT,20,Vanderbilt,A,Kentucky,H
+OCT,20,UTEP,A,Louisiana Tech,H
+OCT,20,Mississippi St,A,LSU,H
+OCT,20,Memphis,A,Missouri,H
+OCT,20,Michigan,A,Michigan St,H
+OCT,20,Minnesota,A,Nebraska,H
+OCT,20,North Carolina,A,Syracuse,H
+OCT,20,North Texas,A,UAB,H
+OCT,20,Ohio St,A,Purdue,H
+OCT,20,Old Dominion,A,WKU,H
+OCT,20,Oregon,A,Washington St,H
+OCT,20,San Jose St,A,San Diego St,H
+OCT,20,SMU,A,Tulane,H
+OCT,20,UT San Antonio,A,Southern Miss,H
+OCT,20,USC,A,Utah,H
+OCT,20,Utah St,A,Wyoming,H
+OCT,20,Tulsa,A,Arkansas,H
+OCT,20,Wake Forest,A,Florida St,H
+OCT,20,Texas St,A,ULM,H
+OCT,20,Northwestern,A,Rutgers,H
+OCT,20,Oklahoma,A,TCU,H
+OCT,20,Alabama,A,Tennessee,H
+OCT,20,Idaho St,A,Liberty,H
+OCT,23,Troy,A,South Alabama,H
+OCT,25,Appalachian St,A,Ga Southern,H
+OCT,25,Ball St,A,Ohio,H
+OCT,25,Toledo,A,W Michigan,H
+OCT,25,Georgia Tech,A,Virginia Tech,H
+OCT,25,Baylor,A,West Virginia,H
+OCT,26,Miami FL,A,Boston College,H
+OCT,26,Wyoming,A,Colorado St,H
+OCT,26,Louisiana Tech,A,FL Atlantic,H
+OCT,26,Indiana,A,Minnesota,H
+OCT,26,Utah,A,UCLA,H
+OCT,27,Boise St,A,Air Force,H
+OCT,27,C Michigan,A,Akron,H
+OCT,27,Oregon,A,Arizona,H
+OCT,27,Arizona St,A,USC,H
+OCT,27,Arkansas St,A,ULL,H
+OCT,27,Army,A,E Michigan,H
+OCT,27,Washington,A,California,H
+OCT,27,Southern Miss,A,Charlotte,H
+OCT,27,Cincinnati,A,SMU,H
+OCT,27,Coastal Car,A,Georgia St,H
+OCT,27,Oregon St,A,Colorado,H
+OCT,27,Massachusetts,A,Connecticut,H
+OCT,27,Duke,A,Pittsburgh,H
+OCT,27,Georgia,N,Florida,N
+OCT,27,Florida Intl,A,WKU,H
+OCT,27,Hawaii,A,Fresno St,H
+OCT,27,South Florida,A,Houston,H
+OCT,27,Illinois,A,Maryland,H
+OCT,27,Iowa,A,Penn St,H
+OCT,27,Texas Tech,A,Iowa St,H
+OCT,27,TCU,A,Kansas,H
+OCT,27,Kentucky,A,Missouri,H
+OCT,27,Wake Forest,A,Louisville,H
+OCT,27,Purdue,A,Michigan St,H
+OCT,27,Texas A&M,A,Mississippi St,H
+OCT,27,MTSU,A,Old Dominion,H
+OCT,27,NC State,A,Syracuse,H
+OCT,27,San Diego St,A,Nevada,H
+OCT,27,New Mexico,A,Utah St,H
+OCT,27,New Mexico St,A,Texas St,H
+OCT,27,Rice,A,North Texas,H
+OCT,27,Texas,A,Oklahoma St,H
+OCT,27,UNLV,A,San Jose St,H
+OCT,27,Washington St,A,Stanford,H
+OCT,27,Tulane,A,Tulsa,H
+OCT,27,UAB,A,UTEP,H
+OCT,27,Vanderbilt,A,Arkansas,H
+OCT,27,N Illinois,A,BYU,H
+OCT,27,Clemson,A,Florida St,H
+OCT,27,Wisconsin,A,Northwestern,H
+OCT,27,Navy,N,Notre Dame,N
+OCT,27,Kansas St,A,Oklahoma,H
+OCT,27,Tennessee,A,South Carolina,H
+OCT,27,North Carolina,A,Virginia,H
+OCT,30,Kent,A,Bowling Green,H
+OCT,30,Miami OH,A,Buffalo,H
+OCT,31,Ball St,A,Toledo,H
+NOV,1,N Illinois,A,Akron,H
+NOV,1,Ohio,A,W Michigan,H
+NOV,1,Temple,A,UCF,H
+NOV,2,Colorado,A,Arizona,H
+NOV,2,WKU,A,MTSU,H
+NOV,2,Pittsburgh,A,Virginia,H
+NOV,3,Air Force,A,Army,H
+NOV,3,Alabama,A,LSU,H
+NOV,3,Alcorn St,A,New Mexico St,H
+NOV,3,Appalachian St,A,Coastal Car,H
+NOV,3,Utah,A,Arizona St,H
+NOV,3,South Alabama,A,Arkansas St,H
+NOV,3,Texas A&M,A,Auburn,H
+NOV,3,Oklahoma St,A,Baylor,H
+NOV,3,California,A,Washington St,H
+NOV,3,Navy,A,Cincinnati,H
+NOV,3,Louisville,A,Clemson,H
+NOV,3,C Michigan,A,E Michigan,H
+NOV,3,Connecticut,A,Tulsa,H
+NOV,3,Duke,A,Miami FL,H
+NOV,3,Memphis,A,East Carolina,H
+NOV,3,Missouri,A,Florida,H
+NOV,3,Fresno St,A,UNLV,H
+NOV,3,Georgia,A,Kentucky,H
+NOV,3,Texas St,A,Georgia St,H
+NOV,3,Georgia Tech,A,North Carolina,H
+NOV,3,Utah St,A,Hawaii,H
+NOV,3,Houston,A,SMU,H
+NOV,3,Minnesota,A,Illinois,H
+NOV,3,Iowa,A,Purdue,H
+NOV,3,Iowa St,A,Kansas,H
+NOV,3,Marshall,A,Southern Miss,H
+NOV,3,Michigan St,A,Maryland,H
+NOV,3,Penn St,A,Michigan,H
+NOV,3,South Carolina,A,Mississippi,H
+NOV,3,Nebraska,A,Ohio St,H
+NOV,3,San Diego St,A,New Mexico,H
+NOV,3,UCLA,A,Oregon,H
+NOV,3,USC,A,Oregon St,H
+NOV,3,UTEP,A,Rice,H
+NOV,3,Rutgers,A,Wisconsin,H
+NOV,3,San Jose St,A,Wyoming,H
+NOV,3,Tulane,A,South Florida,H
+NOV,3,Stanford,A,Washington,H
+NOV,3,Syracuse,A,Wake Forest,H
+NOV,3,ULL,A,Troy,H
+NOV,3,UT San Antonio,A,UAB,H
+NOV,3,BYU,A,Boise St,H
+NOV,3,FL Atlantic,A,Florida Intl,H
+NOV,3,Ga Southern,A,ULM,H
+NOV,3,Liberty,A,Massachusetts,H
+NOV,3,Louisiana Tech,A,Mississippi St,H
+NOV,3,Florida St,A,NC State,H
+NOV,3,Notre Dame,A,Northwestern,H
+NOV,3,Kansas St,A,TCU,H
+NOV,3,Charlotte,A,Tennessee,H
+NOV,3,West Virginia,A,Texas,H
+NOV,3,Oklahoma,A,Texas Tech,H
+NOV,3,Boston College,A,Virginia Tech,H
+NOV,6,Kent,A,Buffalo,H
+NOV,7,Toledo,A,N Illinois,H
+NOV,7,Ohio,A,Miami OH,H
+NOV,8,Wake Forest,A,NC State,H
+NOV,9,Fresno St,A,Boise St,H
+NOV,9,Louisville,A,Syracuse,H
+NOV,10,New Mexico,A,Air Force,H
+NOV,10,Akron,A,E Michigan,H
+NOV,10,Mississippi St,A,Alabama,H
+NOV,10,Appalachian St,A,Texas St,H
+NOV,10,UCLA,A,Arizona St,H
+NOV,10,Arkansas St,A,Coastal Car,H
+NOV,10,Lafayette,A,Army,H
+NOV,10,Auburn,A,Georgia,H
+NOV,10,Baylor,A,Iowa St,H
+NOV,10,Clemson,A,Boston College,H
+NOV,10,Bowling Green,A,C Michigan,H
+NOV,10,California,A,USC,H
+NOV,10,Charlotte,A,Marshall,H
+NOV,10,South Florida,A,Cincinnati,H
+NOV,10,Washington St,A,Colorado,H
+NOV,10,Colorado St,A,Nevada,H
+NOV,10,SMU,A,Connecticut,H
+NOV,10,North Carolina,A,Duke,H
+NOV,10,East Carolina,A,Tulane,H
+NOV,10,WKU,A,FL Atlantic,H
+NOV,10,South Carolina,A,Florida,H
+NOV,10,Florida Intl,A,UT San Antonio,H
+NOV,10,Troy,A,Ga Southern,H
+NOV,10,Georgia St,A,ULL,H
+NOV,10,Temple,A,Houston,H
+NOV,10,Illinois,A,Nebraska,H
+NOV,10,Maryland,A,Indiana,H
+NOV,10,Northwestern,A,Iowa,H
+NOV,10,Rice,A,Louisiana Tech,H
+NOV,10,Tulsa,A,Memphis,H
+NOV,10,Michigan,A,Rutgers,H
+NOV,10,Purdue,A,Minnesota,H
+NOV,10,Mississippi,A,Texas A&M,H
+NOV,10,Vanderbilt,A,Missouri,H
+NOV,10,MTSU,A,UTEP,H
+NOV,10,Navy,A,UCF,H
+NOV,10,North Texas,A,Old Dominion,H
+NOV,10,Oregon,A,Utah,H
+NOV,10,Oregon St,A,Stanford,H
+NOV,10,Wisconsin,A,Penn St,H
+NOV,10,UNLV,A,San Diego St,H
+NOV,10,San Jose St,A,Utah St,H
+NOV,10,Southern Miss,A,UAB,H
+NOV,10,Texas,A,Texas Tech,H
+NOV,10,Florida St,A,Notre Dame,H
+NOV,10,LSU,A,Arkansas,H
+NOV,10,Miami FL,A,Georgia Tech,H
+NOV,10,Kansas,A,Kansas St,H
+NOV,10,BYU,N,Massachusetts,N
+NOV,10,Ohio St,A,Michigan St,H
+NOV,10,Oklahoma St,A,Oklahoma,H
+NOV,10,Virginia Tech,A,Pittsburgh,H
+NOV,10,ULM,A,South Alabama,H
+NOV,10,Kentucky,A,Tennessee,H
+NOV,10,Liberty,A,Virginia,H
+NOV,10,TCU,A,West Virginia,H
+NOV,13,W Michigan,A,Ball St,H
+NOV,14,Buffalo,A,Ohio,H
+NOV,14,Miami OH,A,N Illinois,H
+NOV,15,FL Atlantic,A,North Texas,H
+NOV,15,Tulane,A,Houston,H
+NOV,15,Toledo,A,Kent,H
+NOV,16,Boise St,A,New Mexico,H
+NOV,16,Memphis,A,SMU,H
+NOV,17,Air Force,A,Wyoming,H
+NOV,17,Bowling Green,A,Akron,H
+NOV,17,Citadel,A,Alabama,H
+NOV,17,Georgia St,A,Appalachian St,H
+NOV,17,Arizona,A,Washington St,H
+NOV,17,Arizona St,A,Oregon,H
+NOV,17,Colgate,A,Army,H
+NOV,17,TCU,A,Baylor,H
+NOV,17,Stanford,A,California,H
+NOV,17,Florida Intl,A,Charlotte,H
+NOV,17,Chattanooga,A,South Carolina,H
+NOV,17,Cincinnati,A,UCF,H
+NOV,17,Duke,A,Clemson,H
+NOV,17,Ga Southern,A,Coastal Car,H
+NOV,17,Utah,A,Colorado,H
+NOV,17,Utah St,A,Colorado St,H
+NOV,17,Connecticut,A,East Carolina,H
+NOV,17,Idaho,A,Florida,H
+NOV,17,San Diego St,A,Fresno St,H
+NOV,17,Massachusetts,A,Georgia,H
+NOV,17,UNLV,A,Hawaii,H
+NOV,17,Iowa,A,Illinois,H
+NOV,17,Indiana,A,Michigan,H
+NOV,17,Iowa St,A,Texas,H
+NOV,17,MTSU,A,Kentucky,H
+NOV,17,Louisiana Tech,A,Southern Miss,H
+NOV,17,NC State,A,Louisville,H
+NOV,17,Rice,A,LSU,H
+NOV,17,UT San Antonio,A,Marshall,H
+NOV,17,Michigan St,A,Nebraska,H
+NOV,17,Northwestern,A,Minnesota,H
+NOV,17,Mississippi,A,Vanderbilt,H
+NOV,17,Tulsa,A,Navy,H
+NOV,17,Nevada,A,San Jose St,H
+NOV,17,W Carolina,A,North Carolina,H
+NOV,17,Oregon St,A,Washington,H
+NOV,17,Penn St,A,Rutgers,H
+NOV,17,Pittsburgh,A,Wake Forest,H
+NOV,17,Wisconsin,A,Purdue,H
+NOV,17,South Alabama,A,ULL,H
+NOV,17,South Florida,A,Temple,H
+NOV,17,UAB,A,Texas A&M,H
+NOV,17,Texas St,A,Troy,H
+NOV,17,USC,A,UCLA,H
+NOV,17,UTEP,A,WKU,H
+NOV,17,ULM,A,Arkansas St,H
+NOV,17,Liberty,A,Auburn,H
+NOV,17,New Mexico St,A,BYU,H
+NOV,17,Boston College,A,Florida St,H
+NOV,17,Virginia,A,Georgia Tech,H
+NOV,17,Texas Tech,A,Kansas St,H
+NOV,17,Ohio St,A,Maryland,H
+NOV,17,Arkansas,A,Mississippi St,H
+NOV,17,Syracuse,N,Notre Dame,N
+NOV,17,Kansas,A,Oklahoma,H
+NOV,17,West Virginia,A,Oklahoma St,H
+NOV,17,VMI,A,Old Dominion,H
+NOV,17,Missouri,A,Tennessee,H
+NOV,17,Miami FL,A,Virginia Tech,H
+NOV,20,N Illinois,A,W Michigan,H
+NOV,20,Ball St,A,Miami OH,H
+NOV,22,Colorado St,A,Air Force,H
+NOV,22,Mississippi St,A,Mississippi,H
+NOV,23,Akron,A,Ohio,H
+NOV,23,Buffalo,A,Bowling Green,H
+NOV,23,East Carolina,A,Cincinnati,H
+NOV,23,C Michigan,A,Toledo,H
+NOV,23,Coastal Car,A,South Alabama,H
+NOV,23,E Michigan,A,Kent,H
+NOV,23,Houston,A,Memphis,H
+NOV,23,Nebraska,A,Iowa,H
+NOV,23,Texas,A,Kansas,H
+NOV,23,Oregon,A,Oregon St,H
+NOV,23,UCF,A,South Florida,H
+NOV,23,Washington,A,Washington St,H
+NOV,23,Virginia,A,Virginia Tech,H
+NOV,23,Oklahoma,A,West Virginia,H
+NOV,24,Auburn,A,Alabama,H
+NOV,24,Troy,A,Appalachian St,H
+NOV,24,Arizona St,A,Arizona,H
+NOV,24,Arkansas St,A,Texas St,H
+NOV,24,Texas Tech,N,Baylor,N
+NOV,24,Utah St,A,Boise St,H
+NOV,24,Syracuse,A,Boston College,H
+NOV,24,Colorado,A,California,H
+NOV,24,Charlotte,A,FL Atlantic,H
+NOV,24,South Carolina,A,Clemson,H
+NOV,24,Temple,A,Connecticut,H
+NOV,24,Wake Forest,A,Duke,H
+NOV,24,Marshall,A,Florida Intl,H
+NOV,24,San Jose St,A,Fresno St,H
+NOV,24,Ga Southern,A,Georgia St,H
+NOV,24,Georgia Tech,A,Georgia,H
+NOV,24,Hawaii,A,San Diego St,H
+NOV,24,Illinois,A,Northwestern,H
+NOV,24,Purdue,A,Indiana,H
+NOV,24,Kentucky,A,Louisville,H
+NOV,24,WKU,A,Louisiana Tech,H
+NOV,24,LSU,A,Texas A&M,H
+NOV,24,Maryland,A,Penn St,H
+NOV,24,Pittsburgh,A,Miami FL,H
+NOV,24,Michigan,A,Ohio St,H
+NOV,24,Rutgers,A,Michigan St,H
+NOV,24,Minnesota,A,Wisconsin,H
+NOV,24,UAB,A,MTSU,H
+NOV,24,Navy,A,Tulane,H
+NOV,24,NC State,A,North Carolina,H
+NOV,24,Nevada,A,UNLV,H
+NOV,24,Wyoming,A,New Mexico,H
+NOV,24,North Texas,A,UT San Antonio,H
+NOV,24,Oklahoma St,A,TCU,H
+NOV,24,Old Dominion,A,Rice,H
+NOV,24,SMU,A,Tulsa,H
+NOV,24,Southern Miss,A,UTEP,H
+NOV,24,Stanford,A,UCLA,H
+NOV,24,Florida,A,Florida St,H
+NOV,24,Kansas St,A,Iowa St,H
+NOV,24,New Mexico St,A,Liberty,H
+NOV,24,ULL,A,ULM,H
+NOV,24,Arkansas,A,Missouri,H
+NOV,24,Notre Dame,A,USC,H
+NOV,24,BYU,A,Utah,H
+NOV,24,Tennessee,A,Vanderbilt,H
+DEC,8,Navy,N,Army,N
